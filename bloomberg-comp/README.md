@@ -27,7 +27,7 @@ Verify each on the terminal; the 2026 terms page could not be opened, so these c
 - Name files `YYYY-MM-DD_short-name.ext` by the date written.
 - `plans/` holds trading plans, `daily-desk/` daily desk reviews as PDFs, `tools/` scripts, `research/` notes and data, `archive/` anything replaced.
 - When a plan is replaced, move it to `archive/` and add a "Superseded" line at the top that links to its replacement.
-- The editable version of each plan is the team's Claude doc, "Bloomberg Trading Challenge Strategy". The files here are snapshots: the Week 1 plan is at doc revision 16, as of Oct 13, and the Oct 15 desk review is at revision 26.
+- The editable version of each plan is the team's Claude doc, "Bloomberg Trading Challenge Strategy". The files here are snapshots: the Week 1 plan is at doc revision 16, as of Oct 13, and the Oct 15 desk review is at revision 29.
 
 ## Not yet here
 
